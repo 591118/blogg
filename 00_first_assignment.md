@@ -15,3 +15,101 @@ Her er min google docs for
 
 ## Fremgangsrapport - webside
 Det var et fanskap, og tok mye tid
+
+
+## Prosjektideer
+
+- Lys/vekkerklokke - kombinert
+- Lås
+- Perienner
+- Drone
+
+## LYS/VEKKERKLOKKE - KOMBI
+
+Ønsker at lyset er bærbart - batteribasert
+
+Ønsker å gjør lyset slik at det kan være vanlig lys, discolampe og wakeup light etter innstilling i applikasjon
+Må kunne kobles i taket i leiligheten	(gjenning)
+Må kunne kobles til vekkerklokken
+Må være et selvstendig lys også
+
+Resultatet vil være et lys, som vil ha 3 forskjellige innstillinger for lyset
+
+
+Vekkerklokken vil være helt basic, og vil være ladestasjonen til lyset
+Vekkerklokken må ha en klokke
+Strøm til lyset og seg selv
+Kan inneholde “lyder” under wakeup modus på lys
+Styrt via applikasjon, der man kan endre/laste opp egne lyder
+Styrer vekkefunksjonen
+Styrer lysmodus
+Flere?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vekkerklokke
+
+
+Lys
+
+
+
+
+
+
+
+
+
+
+Kombinert
+
+
+
+
+
+LÅS - mulig?
+
+
+Døralås type yaleman ich
+
+Kan låses opp med app (kode) , biometrics eller kode (dagskode/ukeskode) 
+
+Er dette mulig? -> begrenset av materialer? 
+
+Enkel lås med fungerende funksjonalitet
+
+
+
+
+AUTOMATISK PERSIENNER?
+Motor
+Kjøre persienner opp/ ned
+
+Må festes øverst i vindu / dør		-> 
+
+Appstyrt	-> “Smarthus”
+
+
+
+DRONE?
+
+Bygge 5 droner, som kan programmeres via en app
+Fungere i 3D rommet		-> Teste å fly over fotballbanen
+
+Vanskelig å lage?
+Mulig å bli ferdig?
+
+Prøve senere? 
