@@ -7,7 +7,7 @@ layout: home
 
 Frist: søndag 17.september
 
-Bilder blir lastet opp på mandag, siden jeg ikke fikk til / tatt bilde av de gamle
+Bilder blir lastet opp på mandag, siden jeg ikke fikk til / tatt bilde av de gamle delene
 
 For dette prosjeket ble valget et stativ til PC
 
