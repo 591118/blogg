@@ -75,10 +75,11 @@ BILDER OG RESULTATBESKRIVELSE
 VIDERE ARBEID:
 Fusion - bedre design
 
-Problemet ble at endring på en del ikke ble gjenspeilet i en annen del
+Problemet ble at endring på en del ikke ble gjenspeilet i en annen del -> Constraints
 Må også se på joint (j) for å kunne binde delene sammen, slik at man kunne "simulere" delene sammen
 
 Bruk automasjonsgjengen mer aktivt til å lære mer
 
+Fusion skills som helt klart ødela for prosjeket
 
 ![fusion](assets/fusion.png)
