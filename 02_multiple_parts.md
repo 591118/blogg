@@ -79,3 +79,6 @@ Problemet ble at endring på en del ikke ble gjenspeilet i en annen del
 Må også se på joint (j) for å kunne binde delene sammen, slik at man kunne "simulere" delene sammen
 
 Bruk automasjonsgjengen mer aktivt til å lære mer
+
+
+![fusion](assets/fusion.png)
