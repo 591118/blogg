@@ -7,6 +7,8 @@ layout: home
 
 Frist: søndag 17.september
 
+Bilder blir lastet opp på mandag, siden jeg ikke fikk til / tatt bilde av de gamle
+
 For dette prosjeket ble valget et stativ til PC
 
 Det består av 2 deler, en for støtte, og en for å plassere datamaskinen på.
@@ -29,17 +31,22 @@ Strørrelse hull: 16 mm
 Delene ble printet på et prøve stadie, for å evaluere modellene
 Det ble problemer med å hente ut pin, og "demotere modellen"
 
+Resultatet ble knust modell
+
+BILDE
+
 Iterasjon 2
-Endret litt på designet, og 
+Endret litt på designet, og printet nye runde.
+Håpa det skulle endringen skulle være gode nok til at etter print, skulle være godt nok
+Det ble ikke slik jeg håpet, og klarte ikke å holde pcen.
+Dermed måtte man gjennom en ny runde, med design endringer, og printing
 
 
 Iterasjon 3
 Skulle være ferdig produkt, men har ikke forbundet sketches på 2 forskjellige plan
 Dermed ble ikke hullene gjennomført, slik det skulle. Vi har derimot "jukset" til resultatet.
-Det som ble 
 
-
-
+Siden printingen ble gjort i helgen, fikk jeg også dårlig tid til å gjennomføre en ny print for å prøve igjen
 
     Clearly describe the thing you are trying to make -> Det blir et stativ
     Describe how you plan to make it -> solid 3D print
@@ -57,8 +64,6 @@ Det som ble
     Det er i bruk hjemme, for å løfte pcen fra skrivebord, slik at det blir bedre lufting
     BILDE
     Kjempefornøyd
-
-
 
 
 
