@@ -1,5 +1,5 @@
 ---
-title: 00_first_assignment
+title: 01_CAD_model
 layout: home
 ---
 
