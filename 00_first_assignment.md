@@ -17,6 +17,8 @@ Det var et fanskap, og tok mye tid
 
 Vil ikke ha med bilder
 
+Fanskapen gikk ned igjen
+
 
 ## Prosjektideer
 
