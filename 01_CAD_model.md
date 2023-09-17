@@ -42,3 +42,11 @@ Spørsmål fra fagets side:
 Men kan kokes ned i "hvordan skal prosjeket gjennomføres?"
 
 Enkelt svart: Har ikke anelse
+
+Må kunne endre design og endringer senere
+
+Men det må endel elektronikk og kode
+
+Skal være nok med 2 seperate deler og en kobling mellom dem
+
+Vet ikke om prosjektet er gjennomførbart? 
