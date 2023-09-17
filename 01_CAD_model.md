@@ -29,8 +29,13 @@ Lys             -> vanlig lys
 
 Appstyrt, samt styrt via manuelle kontrollere
 
-MODELL og BILDER
+![Eksempel 1](assets/prosjekt.png)
 
+![Eksempel 2](assets/prosjekt2.png)
+
+![Eksempel 3](assets/lys.png)
+
+![Eksempel 4](assets/vekkerklokke.png)
 
 Spørsmål fra fagets side:
     What are the different parts that the design require?
