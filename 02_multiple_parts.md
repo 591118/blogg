@@ -57,33 +57,33 @@ Det har med vinkel å gjøre
 
 Iterasjon 3
 Skulle være ferdig produkt, men har ikke forbundet sketches på 2 forskjellige plan
-Dermed ble ikke hullene gjennomført, slik det skulle. De er ikke overkommelig
+Dermed ble ikke hullene gjennomført, slik at de var contrainet av hverandre, som førte til at hullene ikke stemte overens, og kunne ikke kobles sammen.
+
+Et annet problem var at lengden på foten, ble endret, slik at den ble kortere. Det gjør at støtteflaten ikke er så stor som den burde for PC. 
 
 ![fusion](assets/fusion.png)
 
-Prøve å jukse til et resultat, ved hjelp av annen støtte, men den raserte.
-Prøve ny print over helgen - tirsdag, og legge inn et bilde for resultat
-Siden printingen ble gjort i helgen, fikk jeg også dårlig tid til å gjennomføre en ny print for å prøve igjen
-
-Det ble jukset til ved å ta foten fra iterasjon 2 og bruke til iterasjon 3
-Det er de to spissene som kommer over, som man ser av bildene.
 
 Resultatet ble: 
 
-Ett ikke komplett arbeid, pga feil ved sketches, og dermed får uoverstemmelser når delene printes.
-Det stjal mye tid, og dermed ikke mulig å gjennomføre en iterasjon 4, der man kunne fått en fungerende løsning
+For å kunne ha noe å vise fram, så hentet jeg støtten fra iterasjon 2.
+Den som jeg hadde "forkastet" på den ble stikkende over, slik det er vist på bildet under iterasjon 2.
 
-BILDE AV RESULTAT
+Dermed fikk jeg dette resultatet.
+
 ![Resultat](assets/res.jpg)
+
+Siden resultatet ble slik som vist over, så ble foten som holder PCen for kort. Det gjør at støtteflaten til PCen er for liten, og det gjorde at den raserte 20 sekunder etter bildene var tatt....
+
 ![Resultat_montert](assets/test1.jpg)
 ![Resultat_montert](assets/test2.jpg)
 ![Resultat_montert](assets/test3.jpg)
 
-VIDERE ARBEID:
-Fusion - bedre design & forståelse av hierakiet på tidslinjen. Kombinere sketches på ulike plan
 
-Problemet ble at endring på en del ikke ble gjenspeilet i en annen del -> Constraints
-Må også se på joint (j) for å kunne binde delene sammen, slik at man kunne "simulere" delene sammen
+VIDERE ARBEID:
+Fusion - bedre design & forståelse av hierakiet på tidslinjen. Kombinere sketches på ulike plan (x,y), (x,z) og (y,z) for å kunne modellere og contraine på tvers av dem.
+
+Må også se på joint (j) for å kunne binde delene sammen, slik at man kunne "simulere" delene etter de er sammensatt
 
 Bruk automasjonsgjengen mer aktivt til å lære mer
 
