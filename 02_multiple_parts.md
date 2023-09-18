@@ -62,31 +62,8 @@ Dermed ble ikke hullene gjennomført, slik det skulle. De er ikke overkommelig
 ![fusion](assets/fusion.png)
 
 Prøve å jukse til et resultat, ved hjelp av annen støtte, men den raserte.
-PRøve ny print over helgen
+Prøve ny print over helgen - tirsdag, og legge inn et bilde for resultat
 Siden printingen ble gjort i helgen, fikk jeg også dårlig tid til å gjennomføre en ny print for å prøve igjen
-
-
-Hullene står ikke 
-
-
-
-    Clearly describe the thing you are trying to make -> Det blir et stativ
-    Describe how you plan to make it -> solid 3D print
-    Document your progress in CAD -> Det var et fanskap, der man fikk prøvd nye ting
-    Forstått hieraki og komponent, samt fakka det til med sketches
-
-    Det gjorde at jeg fikk problem under siste iterasjon
-
-    Document how you set up the slicer and explain the different parameters you set.
-    Brukt standard innstillinger i bambu
-
-
-
-    Document your end result.
-    Det er i bruk hjemme, for å løfte pcen fra skrivebord, slik at det blir bedre lufting
-    BILDE
-    Kjempefornøyd
-
 
 
 Resultatet ble: 
@@ -95,7 +72,7 @@ Ett ikke komplett arbeid, pga feil ved sketches, og dermed får uoverstemmelser 
 
 
 VIDERE ARBEID:
-Fusion - bedre design
+Fusion - bedre design & forståelse av hierakiet på tidslinjen. Kombinere sketches på ulike plan
 
 Problemet ble at endring på en del ikke ble gjenspeilet i en annen del -> Constraints
 Må også se på joint (j) for å kunne binde delene sammen, slik at man kunne "simulere" delene sammen
