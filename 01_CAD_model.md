@@ -54,4 +54,4 @@ Men det må endel elektronikk og kode
 
 Skal være nok med 2 seperate deler og en kobling mellom dem
 
-Vet ikke om prosjektet er gjennomførbart? 
+Vet ikke om prosjektet er gjennomførbart?

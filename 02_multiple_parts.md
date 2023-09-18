@@ -33,7 +33,10 @@ Det ble problemer med å hente ut pin, og "demotere modellen"
 
 Resultatet ble knust modell
 
-BILDE
+![Iterasjon1_1](assets/knekt.jpg)
+![Iterasjon1_2](assets/knekt2.jpg)
+![Iterasjon1_3](assets/knekt3.jpg)
+![Iterasjon1_4](assets/knekt4.jpg)
 
 Iterasjon 2
 Endret litt på designet, og printet nye runde.
@@ -41,12 +44,31 @@ Håpa det skulle endringen skulle være gode nok til at etter print, skulle vær
 Det ble ikke slik jeg håpet, og klarte ikke å holde pcen.
 Dermed måtte man gjennom en ny runde, med design endringer, og printing
 
+Pin størrelse: 7.8 mm
+Strørrelse hull: 8 mm
+
+![Iterasjon2_1](assets/2iterasjon.jpg)
+![Iterasjon2_2](assets/iterasjon2.jpg)
+
+
+Det fungerte å sette opp, men hadde problem med å sette PC på stativet
+Det har med vinkel å gjøre
+
 
 Iterasjon 3
 Skulle være ferdig produkt, men har ikke forbundet sketches på 2 forskjellige plan
-Dermed ble ikke hullene gjennomført, slik det skulle. Vi har derimot "jukset" til resultatet.
+Dermed ble ikke hullene gjennomført, slik det skulle. De er ikke overkommelig
 
+![fusion](assets/fusion.png)
+
+Prøve å jukse til et resultat, ved hjelp av annen støtte, men den raserte.
+PRøve ny print over helgen
 Siden printingen ble gjort i helgen, fikk jeg også dårlig tid til å gjennomføre en ny print for å prøve igjen
+
+
+Hullene står ikke 
+
+
 
     Clearly describe the thing you are trying to make -> Det blir et stativ
     Describe how you plan to make it -> solid 3D print
@@ -82,4 +104,4 @@ Bruk automasjonsgjengen mer aktivt til å lære mer
 
 Fusion skills som helt klart ødela for prosjeket
 
-![fusion](assets/fusion.png)
+![Yoda](assets/yoda.webp)

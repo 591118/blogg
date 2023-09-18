@@ -13,11 +13,9 @@ Her er min google docs for
 
 
 ## Fremgangsrapport - webside
-Det var et fanskap, og tok mye tid
+Nettsiden er oppeå går
 
-Vil ikke ha med bilder
-
-Fanskapen gikk ned igjen
+Får limt inn bilder nå
 
 
 ## Prosjektideer
