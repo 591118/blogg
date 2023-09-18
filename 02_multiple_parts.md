@@ -91,7 +91,7 @@ Hullene står ikke
 
 Resultatet ble: 
 
-BILDER OG RESULTATBESKRIVELSE
+Ett ikke komplett arbeid, pga feil ved sketches, og dermed får uoverstemmelser når delene printes.
 
 
 VIDERE ARBEID:
