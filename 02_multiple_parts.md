@@ -65,11 +65,19 @@ Prøve å jukse til et resultat, ved hjelp av annen støtte, men den raserte.
 Prøve ny print over helgen - tirsdag, og legge inn et bilde for resultat
 Siden printingen ble gjort i helgen, fikk jeg også dårlig tid til å gjennomføre en ny print for å prøve igjen
 
+Det ble jukset til ved å ta foten fra iterasjon 2 og bruke til iterasjon 3
+Det er de to spissene som kommer over, som man ser av bildene.
 
 Resultatet ble: 
 
 Ett ikke komplett arbeid, pga feil ved sketches, og dermed får uoverstemmelser når delene printes.
+Det stjal mye tid, og dermed ikke mulig å gjennomføre en iterasjon 4, der man kunne fått en fungerende løsning
 
+BILDE AV RESULTAT
+![Resultat](assets/res.jpg)
+![Resultat_montert](assets/test1.jpg)
+![Resultat_montert](assets/test2.jpg)
+![Resultat_montert](assets/test3.jpg)
 
 VIDERE ARBEID:
 Fusion - bedre design & forståelse av hierakiet på tidslinjen. Kombinere sketches på ulike plan
