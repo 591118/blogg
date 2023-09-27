@@ -42,7 +42,7 @@ Lys:
 
 
     - Blinkende
-    - 
+    - Noe mer? 
 
 Lyd: 
 
@@ -60,5 +60,6 @@ Interaksjon for å fysisk må stå opp:
     - Spørsmål (gangetabell)
     - Sekvens av utføre kommandoer
     - Slå av ved kommando
+    - Trenger bevegelser
 
 
