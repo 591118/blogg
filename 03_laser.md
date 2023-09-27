@@ -5,20 +5,26 @@ layout: home
 
 ## Assignment 03: Laserkutting
 
-Bygget terning ved bruk av en template
+Work smart, not hard
 
-Teningen ble generet opp, og tegningen ser slik ut
+https://www.youtube.com/watch?v=ZrcqauNvt0M
 
-svg filen
+Helt til slutt måtte jeg lage mirror "gulvet", slik at jeg fikk en topp
+
+Paramterics:
+![Parametics](assets/para.jpg)
 
 
-Deretter videre til tegning i fushion.
-For å ikke trenge å bruke terningen uten lim, så skal vi bruke det som ble lært i forelesningen
+Box for hjelpetegning:
 
-Vi lager 2 modeller
-En med og en uten hinge, der vi ønsker å kunne knipe inn, slik at når det går til normal form, vil ha et spenn. Dermed holde hele sammen.
 
-Vi lager en uten hinge, for å se forskjell på objektene
+For å kunne klare å lage en parametrisk modell, så måtte jeg ha hjelp.
+Illusert i videoen.
 
-BILDER
+Refleksjon:
+For å kunne klippe ut hull
 
+
+
+
+Document your progress of making the parametric model, the process of cutting out the parts on the laser cutter and the final result. Write a short reflection about what this technology affords you and how you can potentially use it in your final project.
