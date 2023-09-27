@@ -30,6 +30,8 @@ Det vi trenger for å CAD modellene til å kunne bli brukbare prototyper:
     - Høytalere
     - Mikrofon
     - Batteri
+    - Mikrokontroller
+    - Noe mer? 
 
 Vekkefunksjon:
 
