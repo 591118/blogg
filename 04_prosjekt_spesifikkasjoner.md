@@ -1,5 +1,5 @@
 ---
-title: 03_laser
+title: Videre utviking av prosjekt - krav til løsning
 layout: home
 ---
 
@@ -24,25 +24,35 @@ Dette er positivt for døgnrytmen.
 Lyset må være flyttbart for å oppflylle flere formål.
 
 Det vi trenger for å CAD modellene til å kunne bli brukbare prototyper:
+
+
     - Lys
     - Høytalere
     - Mikrofon
     - Batteri
 
 Vekkefunksjon:
+
+
     - Gradvis påskrudd lys  -> Oppvekningsfunksjon
 
 Etter fullført oppvekningsfunksjon, så vil det begynne andre deler av våkning/stå opp funksjoner
 
 Lys:
+
+
     - Blinkende
     - 
 
 Lyd: 
+
+
     - Spille egne lyder
     - Gradvis økning i lyd
 
 Interaksjon for å fysisk må stå opp:
+
+
     - Flyvende
     - Puslespill
     - Montering
