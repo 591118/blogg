@@ -7,6 +7,11 @@ ADA525 - prosjektside
 
 Websiden er oppe å går, og alt fungerer
 
+Noe fungerer ikke i prosjektet, sikkert opprettet feil. 
+Den første 03_laser er oblig.
+Den andre 03_laser er utvikling av prosjektet. 
+
+
 Alt skal fungere nå, men reserveplan ligger på docs
 
 Her er min google docs for, for får feil på deployment ved gitpages pga dependecies
