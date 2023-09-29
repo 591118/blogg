@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=ZrcqauNvt0M
 Helt til slutt måtte jeg lage mirror "gulvet", slik at jeg fikk en topp
 
 Paramterics:
-![Parametics](assets/para.png)
+![Para](assets/Para.png)
 
 Resultat:
 ![Box1](assets/box1.jpg)
