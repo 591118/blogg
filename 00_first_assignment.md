@@ -47,13 +47,13 @@ Styrer lysmodus
 Flere?
 
 Vekkerklokken
-![Vekkerklokke](assets/vekkerklokke.png)
+![vekkerklokke](assets/vekkerklokke.png)
 
 Lys
-![Lys](assets/lys.png)
+![lys](assets/lys.png)
 
 Kombinert sammen
-![Kombi](assets/kombi.png)
+![kombi](assets/kombi.png)
 
 
 Bildene kom ikke med i 1 omgang
