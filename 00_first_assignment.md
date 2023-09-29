@@ -12,8 +12,6 @@ Her er min google docs for
 [Ideer for prosjekt](https://docs.google.com/document/d/1Gtd3E4MM41uL1XNtwIZ1ojKJA5nZlT6XIVdund5ngDY/edit)
 
 
-Bildan har slutta å laste opp for enkelte bilder......
-29.09.2023
 
 ## Fremgangsrapport - webside
 Nettsiden er oppeå går
