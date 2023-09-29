@@ -42,3 +42,4 @@ Kan vell kutte hull i ting, kan skjære ut refleksjonsdeler?
 Kan bruk til å kutt opp delan? 
 
 Lengre har jeg ikke tenkt.
+
