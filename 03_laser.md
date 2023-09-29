@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=ZrcqauNvt0M
 Helt til slutt måtte jeg lage mirror "gulvet", slik at jeg fikk en topp
 
 Paramterics:
-![Parametics](assets/para.jpg)
+![Parametics](assets/para.png)
 
 Resultat:
 ![Box1](assets/box1.jpg)
@@ -22,7 +22,7 @@ Alle sidene er avhenig av hverandre, slik at endring i parameterne enderer for a
 Et problem er at siden jeg har brukt mirror, så må boksen være kvadratisk, hvis ikke blir det skeivt i mirrordelen.
 Det er fordi jeg har brukt konstuksjonslinjer på skrå av boksen, for å bare må designe en side og mirror rundt samtlige linjer.
 
-![Fusion](assets/boxS.jpg)
+![Fusion](assets/boxS.png)
 
 Lagde en komponent for hver del, så fikk bunn, topp, side1 og side 2.
 Der jeg skjærte ut side1 og side2, 2 ganger hver.
