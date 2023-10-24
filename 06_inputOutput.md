@@ -7,6 +7,9 @@ layout: home
 
 RESULTATET:
 
+
+![GIF](assets/video.gif)
+
 Jeg måler tempraturen gjennom Adafruit feather nrf52840 sense.
 
 Den inneholder en tempratursensor, for prosjektet ville jeg bruke at tid, slår på lyset for å kjøre.
